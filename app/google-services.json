@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "479029113493",
+    "project_id": "emailpasswordtest-220d7",
+    "storage_bucket": "emailpasswordtest-220d7.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:479029113493:android:266b2d754701468ee7e19c",
+        "android_client_info": {
+          "package_name": "com.example.firebaseemailpasswordtest"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAJl1ecamTwXJz0uXHJ4Df2njA8HEbRs_k"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
